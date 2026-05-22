@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1001",
+    "title": "Part-time job salary",
+    "amount": 850,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "1002",
+    "title": "Groceries",
+    "amount": 34,
+    "type": "expense",
+    "category": "Food",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "1003",
+    "title": "Semester ticket",
+    "amount": 49,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "1779271346006",
+    "title": "Grocery",
+    "amount": 25,
+    "type": "expense",
+    "category": "Food",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "1779271378151",
+    "title": "Mini job",
+    "amount": 500,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-05-21"
+  }
+]

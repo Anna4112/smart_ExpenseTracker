@@ -1,0 +1,14 @@
+{
+  "name": "expense-tracker-webapp",
+  "version": "1.0.0",
+  "description": "Responsive full-stack Expense Tracker web application for Java and Web Development portfolio.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "cors": "^2.8.5"
+  }
+}
