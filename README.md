@@ -1,6 +1,6 @@
 # Smart Expense Tracker Web Application
 
-This is a full-stack web application for the IU Project Java and Web Development portfolio.
+This is a full-stack web application for Project Java and Web Development portfolio.
 
 ## Features
 
