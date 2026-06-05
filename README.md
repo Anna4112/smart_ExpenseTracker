@@ -114,10 +114,44 @@ expense-tracker-webapp/
 
 ---
 
-## Dynamic Features
+# Installation Instructions
 
-- Real-time dashboard updates
-- Form validation
-- Add/Edit/Delete functionality
-- Analytics charts
-- Responsive layout behavior
+## Prerequisites
+
+- Node.js installed
+- Visual Studio Code
+
+## Steps
+
+1. Download the project.
+
+2. Open the project folder in VS Code.
+
+3. Open terminal.
+
+4. Install dependencies:
+
+```bash
+npm install
+```
+
+5. Start server:
+
+```bash
+npm start
+```
+
+6. Open browser:
+
+```text
+http://localhost:3000
+```
+
+## Features
+
+- Add expenses
+- Edit expenses
+- Delete expenses
+- Filter expenses
+- Dynamic summaries
+- Responsive design
